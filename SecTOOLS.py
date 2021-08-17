@@ -116,9 +116,9 @@ print(Fore.RED + """
 print(Style.RESET_ALL)
 print("Welcome to SecTOOLS")
 print("GO SUDO IT !!!!")
-print(Fore.RED+"""WARNING : Dont use this tool to hack anyone or anybody without premission , 
-only use it when you have premission or use it in your network only 
-Dont hack anyone,im not responsible for any offensive works!""")
+print(Fore.RED+"""WARNING : Don't use this tool to hack anyone Permission ,
+only use it when you have Permission or use it in your network only
+Don't hack anyone, I'm not responsible for any offensive works.""")
 print(Style.RESET_ALL)
 print("""**************************************************
 
