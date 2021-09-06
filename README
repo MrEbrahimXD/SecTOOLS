@@ -17,12 +17,14 @@ sudo apt install git
 
 sudo apt install python3
 
+sudo apt install python-colorama
+
 git clone https://github.com/MrEbrahimXD/SecTOOLS
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 
 
-Works with almost all Debian based linux machines , Kali Linux , Ubuntu , whatever :) !
+Works with all unix-linux machines , Kali Linux , Ubuntu , whatever :) !
 
 
