@@ -12,7 +12,7 @@ Use it for good :D love you !
 
 Download the tool by entering these commands
 +++++++++++++++++++++++++++++++++++++++++++++++
-
+```bash
 sudo apt install git
 
 sudo apt install python3
@@ -20,7 +20,7 @@ sudo apt install python3
 sudo apt install python-colorama
 
 git clone https://github.com/MrEbrahimXD/SecTOOLS
-
+```
 
 +++++++++++++++++++++++++++++++++++++++++++++++
 
